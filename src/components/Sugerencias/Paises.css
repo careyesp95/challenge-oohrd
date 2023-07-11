@@ -1,0 +1,26 @@
+.container-paises{
+    position: absolute;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    width: 20%;
+    height:27vh ;
+    border:solid 1px #12111158;
+    margin-right: 580px;
+    margin-bottom: 100px;
+}
+
+.container-p{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-bottom:solid 1px #12111158;
+    width: 100%;
+    margin-bottom:auto;
+}
+
+.container-ul{
+    margin-top: 0 auto;
+    overflow: hidden;
+}

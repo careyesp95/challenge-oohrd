@@ -1,0 +1,33 @@
+.container-nav{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    background-color: transparent;
+    box-shadow: 2px 4px 12px #b48bde;
+    text-decoration: none;
+}
+
+.container-app{
+    font-family: system-ui;
+    margin-left: 10rem;
+}
+
+
+li{
+    color: black;
+    margin:auto;
+    margin-right: 10rem;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    transition: 0.5s;
+    object-fit: contain;
+}
+a:hover{
+    color: #464447;
+    cursor: pointer;
+    transform:scale(1.1);
+}

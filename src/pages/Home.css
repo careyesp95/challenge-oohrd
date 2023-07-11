@@ -1,0 +1,5 @@
+.containerCard{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+}
